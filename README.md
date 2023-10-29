@@ -11,7 +11,9 @@ npm install
 
 ## Step 2: Install Required Package
 
-To integrate Google authentication into your application, begin by installing the `@react-oauth/google` package. This package is Google's Identity Services SDK, which enables seamless integration of Google login into your application and facilitates secure access to Google APIs.
+To integrate Google authentication into your application, begin by installing the `[@react-oauth/google](https://github.com/MomenSherif/react-oauth)` package. This package is Google's Identity Services SDK, which enables seamless integration of Google login into your application and facilitates secure access to Google APIs.
+
+https://github.com/MomenSherif/react-oauth
 
 ## Step 3: Acquire a Google Client ID
 
